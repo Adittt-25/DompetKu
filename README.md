@@ -1,7 +1,7 @@
 💰 Project UTS: DompetKu ⚡
 📸 Preview
 <p align="center">
-  <img src="./yee.jpeg" width="300"/>
+  <img src="./yap.PNG" width="300"/>
 </p>
 🛠️ Logic yang Diterapkan
 
